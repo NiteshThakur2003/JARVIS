@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8GNwQeEKDKM=",
+  "success": true,
+  "projectFilePath": "C:\\JarvisAI\\JarvisAI\\JarvisAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nitesh\\.nuget\\packages\\system.speech\\10.0.12\\system.speech.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

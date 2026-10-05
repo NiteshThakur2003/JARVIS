@@ -1,0 +1,107 @@
+﻿<Window x:Class="JarvisAI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="JARVIS"
+        Height="650"
+        Width="1000"
+        WindowStartupLocation="CenterScreen"
+        Background="#080B12">
+
+    <Grid>
+
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+
+            <TextBlock Text="J A R V I S"
+                       Foreground="White"
+                       FontSize="42"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"/>
+
+            <TextBlock Text="PERSONAL WINDOWS AI ASSISTANT"
+                       Foreground="#8F9BB3"
+                       FontSize="14"
+                       HorizontalAlignment="Center"
+                       Margin="0,8,0,35"/>
+
+            <Border Width="180"
+                    Height="180"
+                    CornerRadius="90"
+                    BorderBrush="#00BFFF"
+                    BorderThickness="3"
+                    HorizontalAlignment="Center">
+
+                <Grid>
+
+                    <Ellipse Width="120"
+                             Height="120"
+                             Fill="#101722"
+                             Stroke="#00BFFF"
+                             StrokeThickness="2"
+                             HorizontalAlignment="Center"
+                             VerticalAlignment="Center"/>
+
+                    <TextBlock Text="◉"
+                               Foreground="#00BFFF"
+                               FontSize="55"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Center"/>
+
+                </Grid>
+
+            </Border>
+
+            <TextBlock x:Name="StatusText"
+                       Text="JARVIS is ready."
+                       Foreground="#8F9BB3"
+                       FontSize="18"
+                       HorizontalAlignment="Center"
+                       Margin="0,30,0,25"/>
+
+            <Button x:Name="StartButton"
+                    Content="🎤  START LISTENING"
+                    Width="280"
+                    Height="55"
+                    FontSize="16"
+                    FontWeight="SemiBold"
+                    Background="#101722"
+                    Foreground="White"
+                    BorderBrush="#00BFFF"
+                    BorderThickness="1"
+                    Click="StartButton_Click"/>
+
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Center"
+                        Margin="0,20,0,0">
+
+                <Button Content="Chrome"
+                        Width="120"
+                        Height="40"
+                        Margin="5"
+                        Click="ChromeButton_Click"/>
+
+                <Button Content="Outlook"
+                        Width="120"
+                        Height="40"
+                        Margin="5"
+                        Click="OutlookButton_Click"/>
+
+                <Button Content="Calculator"
+                        Width="120"
+                        Height="40"
+                        Margin="5"
+                        Click="CalculatorButton_Click"/>
+
+                <Button Content="Explorer"
+                        Width="120"
+                        Height="40"
+                        Margin="5"
+                        Click="ExplorerButton_Click"/>
+
+            </StackPanel>
+
+        </StackPanel>
+
+    </Grid>
+
+</Window>

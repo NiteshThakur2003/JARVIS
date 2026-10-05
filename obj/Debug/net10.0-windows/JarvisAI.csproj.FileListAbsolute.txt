@@ -1,0 +1,66 @@
+D:\AI Project\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.exe
+D:\AI Project\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.deps.json
+D:\AI Project\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.runtimeconfig.json
+D:\AI Project\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.dll
+D:\AI Project\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.pdb
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\MainWindow.baml
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\App.g.cs
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI_MarkupCompile.cache
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.g.resources
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.GeneratedMSBuildEditorConfig.editorconfig
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.AssemblyInfoInputs.cache
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.AssemblyInfo.cs
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.csproj.CoreCompileInputs.cache
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.dll
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\refint\JarvisAI.dll
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.pdb
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.genruntimeconfig.cache
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\ref\JarvisAI.dll
+D:\AI Project\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.csproj.Up2Date
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.exe
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.deps.json
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.runtimeconfig.json
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.dll
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.pdb
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI_MarkupCompile.cache
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.g.resources
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.AssemblyInfoInputs.cache
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.AssemblyInfo.cs
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.csproj.CoreCompileInputs.cache
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.dll
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\refint\JarvisAI.dll
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.pdb
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.genruntimeconfig.cache
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\ref\JarvisAI.dll
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.csproj.Up2Date
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\System.Speech.dll
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Speech.dll
+C:\Users\Nitesh\source\repos\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.csproj.AssemblyReference.cache
+C:\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.exe
+C:\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.deps.json
+C:\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.runtimeconfig.json
+C:\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.dll
+C:\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\JarvisAI.pdb
+C:\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\System.Speech.dll
+C:\JarvisAI\JarvisAI\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Speech.dll
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.csproj.AssemblyReference.cache
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\MainWindow.baml
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\App.g.cs
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI_MarkupCompile.cache
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.g.resources
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.AssemblyInfoInputs.cache
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.AssemblyInfo.cs
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.csproj.CoreCompileInputs.cache
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.csproj.Up2Date
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.dll
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\refint\JarvisAI.dll
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.pdb
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\JarvisAI.genruntimeconfig.cache
+C:\JarvisAI\JarvisAI\obj\Debug\net10.0-windows\ref\JarvisAI.dll
